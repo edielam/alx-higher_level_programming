@@ -8,4 +8,4 @@
 
 ---
 ### Authors
-edd_guardiola [![M](https://play-lh.googleusercontent.com/wIf3HtczQDjHzHuu7vezhqNs0zXAG85F7VmP7nhsTxO3OHegrVXlqIh_DWBYi86FTIGk)](https://twitter.com/edd_guardiola)
+edd_guardiola [![M](https://cdn-icons-png.flaticon.com/512/124/124021.png)](https://twitter.com/edd_guardiola)
