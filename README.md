@@ -8,4 +8,4 @@
 
 ---
 ### Authors
-edd_guardiola [![M](https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/30px-Twitter_Bird.svg.png)](https://twitter.com/edd_guardiola)
+edd_guardiola [![M](https://play-lh.googleusercontent.com/wIf3HtczQDjHzHuu7vezhqNs0zXAG85F7VmP7nhsTxO3OHegrVXlqIh_DWBYi86FTIGk)](https://twitter.com/edd_guardiola)
